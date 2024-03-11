@@ -1,6 +1,6 @@
 CISC7014_HW2
 
-The code in this repository was created for CISC7014 Homework 1.
+The code in this repository was created for CISC7014 Homework 2.
 
 Tree of Codes
 
